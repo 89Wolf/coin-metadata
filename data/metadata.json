@@ -1,6 +1,15 @@
 {
-  "name": "VirdeeCoin",
-  "symbol": "VIRD",
-  "description": "Virdee Coin",
-  "image": "https://raw.githubusercontent.com/alexvirdee/virdee-coin-image/main/logo.png"
+  "key": 4,
+  "updateAuthority": "8ytxF4MHP7Cif36NMHctyKy2NkvzYiK14YvoKZMuoFxs",
+  "mint": "Rox3dSucvX4iArhEZoCbaqerziZacnjzP3iaN15umTD",
+  "data": {
+    "name": "ROBOX",
+    "symbol": "ROX",
+    "uri": "https://robox.digital/metadata/metadata.json",
+    "sellerFeeBasisPoints": 0
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1,
+  "editionNonce": 254,
+  "tokenStandard": 2
 }
